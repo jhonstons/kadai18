@@ -1,4 +1,5 @@
 #top {
+  margin: 20px auto;
   display: block;
   width: 800px;
   background-color: #dcc9f4;
@@ -6,7 +7,7 @@
 }
 .top-child {
   display: inline-block;
-  width: 160px;
+  width: 20%;
   margin-top: 20px;
   margin-bottom: 20px;
   background-color: #ffd9df;
