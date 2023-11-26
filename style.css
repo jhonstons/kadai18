@@ -1,12 +1,14 @@
 #top {
-  display: inline-block;
+  display: block;
   width: 800px;
   background-color: #dcc9f4;
   text-align: center;
 }
-#top-child {
+.top-child {
   display: inline-block;
   width: 160px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   background-color: #ffd9df;
 }
 #middle {
